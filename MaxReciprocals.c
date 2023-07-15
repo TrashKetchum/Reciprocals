@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <math.h>
-//this comment exists
+
 bool* primegen(long high){
     long size = (high+1)/2;
 
